@@ -1,4 +1,4 @@
-# Portfolio de Finance Quantitative et Data Scienc
+# Portfolio de Finance Quantitative et Data Science
 De la Mathématique à la Pratique : Data Science, Machine Learning et Finance Quantitative pour des Décisions Financières Optimisées
 
 
